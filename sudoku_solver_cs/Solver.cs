@@ -1,6 +1,3 @@
-using System;
-using System.IO;
-
 public class Sudoku_Solver
 {
     private int[,] Matrix;
